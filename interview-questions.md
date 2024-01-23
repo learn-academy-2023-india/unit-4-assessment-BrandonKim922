@@ -10,40 +10,40 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 Similarities
 
-1.
-2.
-3.
+1. They are programming languages
+2. They are dynamic languages
+3. They both support for OOP
 
 Differences
 
-1.
-2.
-3.
+1. console.log vs puts || p
+2. === vs ==
+3. syntax and code structure
 
 Researched answer:
 
 2. What does it mean to implement a TDD workflow?
 
-Your answer:
+Your answer: TDD, Test Driven Development, is a method of testing code
 
-Researched answer:
+Researched answer: TDD is the philosophy of writing tests before it fails on purpose and creating the code to pass.
 
 3. What is a block in Ruby?
 
-Your answer:
+Your answer: A block is Ruby is a code of commanding an output.
 
-Researched answer:
+Researched answer: In Ruby, a block is a piece of code that can be passed to a method, just like a parameter. 
 
 4. STRETCH: What is a version manager?
 
-Answer:
+Answer: A version manager in programming is a tool or software that helps developers manage and switch between different versions of programming languages, frameworks, libraries, or other software components installed on their development machines. 
 
 ## Looking Ahead: Terms for Next Unit
 
 Research and define the following terms.
 
-1. Database migrations:
+1. Database migrations: Database migrations refer to the management of changes to a database schema over time. 
 
-2. Model validations:
+2. Model validations: Model validations are rules or conditions applied to the data stored in a model (representing a database table) to ensure its correctness and integrity. 
 
-3. Params:
+3. Params: "Params" is short for parameters and is commonly used to refer to parameters passed to a controller action in web development frameworks.
