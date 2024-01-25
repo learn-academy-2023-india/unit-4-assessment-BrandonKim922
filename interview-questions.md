@@ -21,6 +21,14 @@ Differences
 3. syntax and code structure
 
 Researched answer:
+Similarities
+1. Both are object-oriented language
+2. Both have a rich array of third-party libraries available for download.
+3. Both have highly active and engaged communities.
+Differences
+1. typeof vs class
+2. === vs ==
+3. each vs forEach
 
 2. What does it mean to implement a TDD workflow?
 
